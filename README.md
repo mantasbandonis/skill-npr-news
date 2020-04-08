@@ -7,6 +7,7 @@ Hourly News will be used. You can also choose your own default or add a custom a
 
 Supported stations include:
 - Associated Press (AP) Hourly Radio News
+- [AT] Ö3 Nachrichten
 - [AU] ABC News Australia
 - [BE] VRT Nieuws
 - [CA] CBC News
